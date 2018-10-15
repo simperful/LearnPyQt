@@ -2,6 +2,8 @@
 # -*- coding:utf-8 -*-
 """
 In this examle, I create a simple window in PyQt5.
+
+Date：2018-10-15 
 """
 
 import sys
@@ -36,7 +38,7 @@ class MyWindow(QWidget):
         self.resize(300, 220)
         self.center()
         self.setWindowTitle('My First PyQt Window')
-        self.setWindowIcon(QIcon('icon.png'))
+        self.setWindowIcon(QIcon("../image/icon.png"))
 
         self.show()
 
