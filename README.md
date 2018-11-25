@@ -1,2 +1,2 @@
 # LearnPyQt
-learn PyQt refer to the tutorial [http://zetcode.com/gui/pyqt5/] 
+learn PyQt by referring to the tutorial [http://zetcode.com/gui/pyqt5/] 
